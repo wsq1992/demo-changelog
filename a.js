@@ -7,5 +7,5 @@ const a = (c, b) => {
     console.log(a);
   }
 };
-
+console.log(1323)
 a();

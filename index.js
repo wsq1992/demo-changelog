@@ -7,5 +7,5 @@ const a = '123';
 if (a == 123) {
   test();
 } else {
-
+console.log(2332);
 }
